@@ -1,7 +1,3 @@
-/// Compex Systemhaus GmbH, Heidelberg, Germany
-/// Loetz GmbH & Co KG, Heidelberg, Germany
-///
-
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/)
